@@ -1,1 +1,1 @@
-export { default } from 'src/pages/page'
+export { default } from "src/pages/poll";
